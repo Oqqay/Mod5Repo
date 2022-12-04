@@ -11,3 +11,5 @@ Meyer, U., Sanders, P. 2003. Δ-stepping: a parallelizable shortest path algorit
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+
+## Insert contributing changes below:
