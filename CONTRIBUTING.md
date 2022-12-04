@@ -5,3 +5,5 @@ Thank you for investing time in contributing to our project! Of course, any cont
 ## Guidlines
 
 Just be awesome!
+
+### Insert contributing changes below:
