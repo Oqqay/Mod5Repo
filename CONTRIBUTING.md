@@ -6,4 +6,4 @@ Thank you for investing time in contributing to our project! Of course, any cont
 
 Just be awesome!
 
-### Insert contributing changes below:
+## Insert contributing changes below:
