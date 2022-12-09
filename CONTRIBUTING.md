@@ -10,3 +10,5 @@ Just be awesome!
 
 Dallon Jarman User: dallonjarman
 Changes: Added subheading about a module
+
+- Jeysen Angous - Username: Jeysen34
